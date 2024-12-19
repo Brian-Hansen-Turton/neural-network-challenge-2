@@ -1,3 +1,7 @@
+# Repo location
+https://github.com/Brian-Hansen-Turton/neural-network-challenge-2.git
+
+
 # Employee Attrition and Department Prediction
 
 This project builds a machine learning model to predict two key outcomes based on employee data:
